@@ -1,6 +1,6 @@
 /*-----------------------------------------------
  * File Name: Dice
- * Author: Julia Garrett   jrgarrett3222@gmail.com
+ * Author: Jules Garrett   jrgarrett3222@gmail.com
  * Assignment: EECs-168 Lab 2
  * Description: This program allows for the creation of dice and the ability to roll them
  * Date: 11/17/15

@@ -1,6 +1,6 @@
 /*-----------------------------------------------
  * File Name: CircleArea
- * Author: Julia Garrett   jrgarrett3222@gmail.com
+ * Author: Jules Garrett   jrgarrett3222@gmail.com
  * Assignment: EECs-168 Lab 2
  * Description: This program will compute the area of a circle with a hard-coded radius.
  * Date: 9/17/15

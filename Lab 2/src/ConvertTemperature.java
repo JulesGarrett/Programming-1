@@ -1,5 +1,5 @@
 /* File Name: convertTemperature.java
- * Author: Julia Garrett
+ * Author: Jules Garrett
  * Assignment: EECS-168 Lab 2
  * Description: This program will convert the input temperature from Fahrenheit to Celsius.
  * Date: 9/17/15

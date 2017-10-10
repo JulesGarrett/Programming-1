@@ -1,6 +1,6 @@
 /*File Name: Square Matrix
- * Author: Julia Garrett
- * KUID: 2834743
+ * Author: Jules Garrett
+ * KUID: 
  * Email Address: jrgarrett3222@gmail.com
  * Homework Assignment Number: 2
  * Description: This program will create a nxn matrix of numbers where n is a number collected from the user

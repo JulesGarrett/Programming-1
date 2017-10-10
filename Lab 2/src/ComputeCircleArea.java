@@ -1,6 +1,6 @@
 /*
  * File Name: ComputeCircleArea.java
- * Author: Julia Garrett  jrgarrett3222@gmail.com
+ * Author: Jules Garrett  jrgarrett3222@gmail.com
  * Assignment: EECS-168 Lab 2
  * Description: This program will compute the area of the circle, where the radius is received 
  * 					from the user.

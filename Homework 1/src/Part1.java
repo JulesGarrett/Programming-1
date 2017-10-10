@@ -1,7 +1,7 @@
 
 /*File Name: Banana Stand part 1
- * Author: Julia Garrett
- * KUID: 2834743
+ * Author: Jules Garrett
+ * KUID: 
  * Email Address: jrgarrett3222@gmail.com
  * Homework Assignment Number: 1
  * Description: This program will find the cost of an order of bananas based on the kind of bananas the user wants.

@@ -1,6 +1,6 @@
 /*File Name: Ascii Art
- * Author: Julia Garrett
- * KUID: 2834743
+ * Author: Jules Garrett
+ * KUID: 
  * Email Address: jrgarrett3222@gmail.com
  * Homework Assignment Number: 2
  * Description: This program will create a specific pattern and a specific size both of which are decided by input from the user.

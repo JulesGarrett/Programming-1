@@ -1,6 +1,6 @@
 /*-----------------------------------------------
  * File Name: colosseum
- * Author: Julia Garrett   jrgarrett3222@gmail.com
+ * Author: Jules Garrett   jrgarrett3222@gmail.com
  * Assignment: EECs-168 Homework 4
  * Description: This program lets two players create thier own pokemon and let them battle.
  * Date: 11/17/15

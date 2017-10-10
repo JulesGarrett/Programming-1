@@ -1,6 +1,6 @@
 /*-----------------------------------------------
  * File Name: Pokemon
- * Author: Julia Garrett   jrgarrett3222@gmail.com
+ * Author: Jules Garrett   jrgarrett3222@gmail.com
  * Assignment: EECs-168 Homework 4
  * Description: This program simulates a battle between two pokemon
  * Date: 11/17/15
